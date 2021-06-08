@@ -1,6 +1,6 @@
 {
   "name": "image-preview-omg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "preview image",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
