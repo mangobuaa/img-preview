@@ -1,0 +1,28 @@
+{
+  "name": "img-preview",
+  "version": "1.0.0",
+  "description": "preview image",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangobuaa/img-preview.git"
+  },
+  "keywords": [
+    "image",
+    "preview"
+  ],
+  "author": "limaoquan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangobuaa/img-preview/issues"
+  },
+  "homepage": "https://github.com/mangobuaa/img-preview#readme",
+  "dependencies": {
+    "typescript": "^4.3.2"
+  }
+}
